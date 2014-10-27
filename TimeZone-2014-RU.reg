@@ -1,0 +1,255 @@
+Windows Registry Editor Version 5.00
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones]
+"TzVersion"=dword:07de0007
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Ekaterinburg Standard Time]
+"MUI_Display"="@tzres.dll,-1840"
+"MUI_Dlt"="@tzres.dll,-1841"
+"MUI_Std"="@tzres.dll,-1842"
+"Display"="(UTC+05:00) Екатеринбург (RTZ 4)"
+"Dlt"="RTZ 4 (лето)"
+"Std"="RTZ 4 (зима)"
+"TZI"=hex:d4,fe,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,02,00,00,\
+  00,00,00,00,00,00,00,01,00,03,00,01,00,00,00,00,00,00,00,00,00
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Ekaterinburg Standard Time\Dynamic DST]
+"2010"=hex:d4,fe,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,03,00,\
+  00,00,00,00,00,00,00,00,03,00,00,00,05,00,02,00,00,00,00,00,00,00
+"2011"=hex:d4,fe,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,01,00,06,00,01,00,00,00,\
+  00,00,00,00,00,00,00,00,03,00,00,00,05,00,02,00,00,00,00,00,00,00
+"FirstEntry"=dword:000007da
+"LastEntry"=dword:000007df
+"2012"=hex:98,fe,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"2014"=hex:d4,fe,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,02,00,\
+  00,00,00,00,00,00,00,00,01,00,03,00,01,00,00,00,00,00,00,00,00,00
+"2015"=hex:d4,fe,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"2013"=hex:98,fe,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Kaliningrad Standard Time]
+"MUI_Display"="@tzres.dll,-1820"
+"TZI"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,02,00,00,\
+  00,00,00,00,00,00,00,01,00,03,00,01,00,00,00,00,00,00,00,00,00
+"Std"="RTZ 1 (зима)"
+"MUI_Std"="@tzres.dll,-1822"
+"Dlt"="RTZ 1 (лето)"
+"MUI_Dlt"="@tzres.dll,-1821"
+"Display"="(UTC+02:00) Калининград (RTZ 1)"
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Kaliningrad Standard Time\Dynamic DST]
+"2010"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,03,00,\
+  00,00,00,00,00,00,00,00,03,00,00,00,05,00,02,00,00,00,00,00,00,00
+"2011"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,01,00,06,00,01,00,00,00,\
+  00,00,00,00,00,00,00,00,03,00,00,00,05,00,02,00,00,00,00,00,00,00
+"FirstEntry"=dword:000007da
+"LastEntry"=dword:000007df
+"2012"=hex:4c,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"2014"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,02,00,\
+  00,00,00,00,00,00,00,00,01,00,03,00,01,00,00,00,00,00,00,00,00,00
+"2015"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"2013"=hex:4c,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Kamchatka Standard Time]
+"MUI_Display"="@tzres.dll,-1420"
+"MUI_Dlt"="@tzres.dll,-981"
+"MUI_Std"="@tzres.dll,-982"
+"Display"="(UTC+12:00) Петропавловск-Камчатский - устаревшее"
+"Dlt"="Камчатка (лето)"
+"Std"="Камчатка (зима)"
+"TZI"=hex:30,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,03,00,00,\
+  00,00,00,00,00,00,00,03,00,00,00,05,00,02,00,00,00,00,00,00,00
+"IsObsolete"=dword:00000001
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Magadan Standard Time]
+"MUI_Display"="@tzres.dll,-1980"
+"TZI"=hex:a8,fd,ff,ff,00,00,00,00,88,ff,ff,ff,00,00,0a,00,00,00,05,00,02,00,00,\
+  00,00,00,00,00,00,00,01,00,03,00,01,00,00,00,00,00,00,00,00,00
+"Std"="Магадан (зима)"
+"MUI_Std"="@tzres.dll,-1472"
+"Dlt"="Магадан (лето)"
+"MUI_Dlt"="@tzres.dll,-1471"
+"Display"="(UTC+10:00) Магадан"
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Magadan Standard Time\Dynamic DST]
+"2010"=hex:6c,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,03,00,\
+  00,00,00,00,00,00,00,00,03,00,00,00,05,00,02,00,00,00,00,00,00,00
+"2011"=hex:6c,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,01,00,06,00,01,00,00,00,\
+  00,00,00,00,00,00,00,00,03,00,00,00,05,00,02,00,00,00,00,00,00,00
+"FirstEntry"=dword:000007da
+"LastEntry"=dword:000007df
+"2012"=hex:30,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"2014"=hex:a8,fd,ff,ff,00,00,00,00,88,ff,ff,ff,00,00,0a,00,00,00,05,00,02,00,\
+  00,00,00,00,00,00,00,00,01,00,03,00,01,00,00,00,00,00,00,00,00,00
+"2015"=hex:a8,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"2013"=hex:30,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\North Asia East Standard Time]
+"MUI_Display"="@tzres.dll,-1870"
+"MUI_Dlt"="@tzres.dll,-1871"
+"MUI_Std"="@tzres.dll,-1872"
+"Display"="(UTC+08:00) Иркутск (RTZ 7)"
+"Dlt"="RTZ 7 (лето)"
+"Std"="RTZ 7 (зима)"
+"TZI"=hex:20,fe,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,02,00,00,\
+  00,00,00,00,00,00,00,01,00,03,00,01,00,00,00,00,00,00,00,00,00
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\North Asia East Standard Time\Dynamic DST]
+"2010"=hex:20,fe,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,03,00,\
+  00,00,00,00,00,00,00,00,03,00,00,00,05,00,02,00,00,00,00,00,00,00
+"2011"=hex:20,fe,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,01,00,06,00,01,00,00,00,\
+  00,00,00,00,00,00,00,00,03,00,00,00,05,00,02,00,00,00,00,00,00,00
+"FirstEntry"=dword:000007da
+"LastEntry"=dword:000007df
+"2012"=hex:e4,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"2014"=hex:20,fe,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,02,00,\
+  00,00,00,00,00,00,00,00,01,00,03,00,01,00,00,00,00,00,00,00,00,00
+"2015"=hex:20,fe,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"2013"=hex:e4,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\North Asia Standard Time]
+"MUI_Display"="@tzres.dll,-1860"
+"MUI_Dlt"="@tzres.dll,-1861"
+"MUI_Std"="@tzres.dll,-1862"
+"Display"="(UTC+07:00) Красноярск (RTZ 6)"
+"Dlt"="RTZ 6 (лето)"
+"Std"="RTZ 6 (зима)"
+"TZI"=hex:5c,fe,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,02,00,00,\
+  00,00,00,00,00,00,00,01,00,03,00,01,00,00,00,00,00,00,00,00,00
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\North Asia Standard Time\Dynamic DST]
+"2010"=hex:5c,fe,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,03,00,\
+  00,00,00,00,00,00,00,00,03,00,00,00,05,00,02,00,00,00,00,00,00,00
+"2011"=hex:5c,fe,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,01,00,06,00,01,00,00,00,\
+  00,00,00,00,00,00,00,00,03,00,00,00,05,00,02,00,00,00,00,00,00,00
+"FirstEntry"=dword:000007da
+"LastEntry"=dword:000007df
+"2012"=hex:20,fe,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"2014"=hex:5c,fe,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,02,00,\
+  00,00,00,00,00,00,00,00,01,00,03,00,01,00,00,00,00,00,00,00,00,00
+"2015"=hex:5c,fe,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"2013"=hex:20,fe,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Russia Time Zone 10]
+"MUI_Display"="@tzres.dll,-1910"
+"TZI"=hex:6c,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"Std"="RTZ 10 (зима)"
+"MUI_Std"="@tzres.dll,-1912"
+"Dlt"="RTZ 10 (лето)"
+"MUI_Dlt"="@tzres.dll,-1911"
+"Display"="(UTC+11:00) Чокурдах (RTZ 10)"
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Russia Time Zone 11]
+"MUI_Display"="@tzres.dll,-1930"
+"TZI"=hex:30,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"Std"="RTZ 11 (зима)"
+"MUI_Std"="@tzres.dll,-1932"
+"Dlt"="RTZ 11 (лето)"
+"MUI_Dlt"="@tzres.dll,-1931"
+"Display"="(UTC+12:00) Анадырь, Петропавловск-Камчатский (RTZ 11)"
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Russia Time Zone 3]
+"MUI_Display"="@tzres.dll,-1890"
+"TZI"=hex:10,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"Std"="RTZ 3 (зима)"
+"MUI_Std"="@tzres.dll,-1892"
+"Dlt"="RTZ 3 (лето)"
+"MUI_Dlt"="@tzres.dll,-1891"
+"Display"="(UTC+04:00) Ижевск, Самара (RTZ 3)"
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Russian Standard Time]
+"MUI_Display"="@tzres.dll,-1830"
+"MUI_Dlt"="@tzres.dll,-1831"
+"MUI_Std"="@tzres.dll,-1832"
+"Display"="(UTC+03:00) Волгоград, Москва, Санкт-Петербург (RTZ 2)"
+"Dlt"="RTZ 2 (лето)"
+"Std"="RTZ 2 (зима)"
+"TZI"=hex:4c,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,02,00,00,\
+  00,00,00,00,00,00,00,01,00,03,00,01,00,00,00,00,00,00,00,00,00
+"MapID"="6,7"
+"Index"=dword:00000091
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Russian Standard Time\Dynamic DST]
+"2010"=hex:4c,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,03,00,\
+  00,00,00,00,00,00,00,00,03,00,00,00,05,00,02,00,00,00,00,00,00,00
+"2011"=hex:10,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"FirstEntry"=dword:000007da
+"LastEntry"=dword:000007df
+"2012"=hex:10,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"2014"=hex:4c,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,02,00,\
+  00,00,00,00,00,00,00,00,01,00,03,00,01,00,00,00,00,00,00,00,00,00
+"2015"=hex:4c,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"2013"=hex:10,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Vladivostok Standard Time]
+"MUI_Display"="@tzres.dll,-1950"
+"MUI_Dlt"="@tzres.dll,-1951"
+"MUI_Std"="@tzres.dll,-1952"
+"Display"="(UTC+10:00) Владивосток, Магадан (RTZ 9)"
+"Dlt"="RTZ 9 (лето)"
+"Std"="RTZ 9 (зима)"
+"TZI"=hex:a8,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,02,00,00,\
+  00,00,00,00,00,00,00,01,00,03,00,01,00,00,00,00,00,00,00,00,00
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Vladivostok Standard Time\Dynamic DST]
+"2010"=hex:a8,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,03,00,\
+  00,00,00,00,00,00,00,00,03,00,00,00,05,00,02,00,00,00,00,00,00,00
+"2011"=hex:a8,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,01,00,06,00,01,00,00,00,\
+  00,00,00,00,00,00,00,00,03,00,00,00,05,00,02,00,00,00,00,00,00,00
+"FirstEntry"=dword:000007da
+"LastEntry"=dword:000007df
+"2012"=hex:6c,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"2014"=hex:a8,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,02,00,\
+  00,00,00,00,00,00,00,00,01,00,03,00,01,00,00,00,00,00,00,00,00,00
+"2015"=hex:a8,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"2013"=hex:6c,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Yakutsk Standard Time]
+"MUI_Display"="@tzres.dll,-1880"
+"MUI_Dlt"="@tzres.dll,-1881"
+"MUI_Std"="@tzres.dll,-1882"
+"Display"="(UTC+09:00) Якутск (RTZ 8)"
+"Dlt"="RTZ 8 (лето)"
+"Std"="RTZ 8 (зима)"
+"TZI"=hex:e4,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,02,00,00,\
+  00,00,00,00,00,00,00,01,00,03,00,01,00,00,00,00,00,00,00,00,00
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Yakutsk Standard Time\Dynamic DST]
+"2010"=hex:e4,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,03,00,\
+  00,00,00,00,00,00,00,00,03,00,00,00,05,00,02,00,00,00,00,00,00,00
+"2011"=hex:e4,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,01,00,06,00,01,00,00,00,\
+  00,00,00,00,00,00,00,00,03,00,00,00,05,00,02,00,00,00,00,00,00,00
+"FirstEntry"=dword:000007da
+"LastEntry"=dword:000007df
+"2012"=hex:a8,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"2014"=hex:e4,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,02,00,\
+  00,00,00,00,00,00,00,00,01,00,03,00,01,00,00,00,00,00,00,00,00,00
+"2015"=hex:e4,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"2013"=hex:a8,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
